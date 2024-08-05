@@ -1,0 +1,7 @@
+# Files to ignore
+
+*zip
+Impractical_Python_Projects-master/
+*__pycache__/
+.idea/
+.venv/
